@@ -149,14 +149,4 @@ close-up view(focus)     | close-up view(defocus)
 3. While working with MTL file, I found there could be over 10 rendering options which consider more aspects and are thus more complex. To achieve more photo-realistic results, to implement these features is always meaningful and more importantly, interesting!
 
 
-## Appendix
-
-This is my second visit to the University of Alberta. I really enjoy my time here!
-
-<img src="https://github.com/user-attachments/assets/ff284f99-b100-4782-b07e-e0cec28ad572" alt="poster fair" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/39145eb4-3d7e-4bbd-b364-68452094053f" width="400" height="300"/>
-
-A presentation in the poster fair and the most inspiring sentence I met in UofA.
-
-**You can review my poster [here](https://github.com/Zysun2002/Renderer-Alberta/blob/main/poster_ZiyuSun.pdf).**
 
